@@ -1,6 +1,6 @@
 
 {
-"bot-name": "Drakonis-MD",
+"bot-name": "RDX RAHUL VAI",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ dev sung",
   "logo": "https://files.catbox.moe/ygfz2e.jpg",
   "keywords": ["bot"],
@@ -8,7 +8,7 @@
     "owner-verification":"sungdev00@gmail.com",
   
     "env": {
-      "SESSION_ID": {
+      "SESSION_ID"drakonis~tmEnwQIJ#0hd74JiA_JSfOw6D0UQ55GteXGA5eTIs7NnYK-i5lYs: {
         "description": "Put your SESSION_ID here. It starts with drakonis~",
         "value":"",
         "required": true
@@ -18,7 +18,7 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": false,
-      "value": "12363621958"
+      "value": "93770603875"
 
     }  
   }
